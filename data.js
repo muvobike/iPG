@@ -70,7 +70,12 @@ var q = [
 	'Who would be your next hire?',
 	'What do you know about this space/product others don&#39;t know?',
 	'What progress have you made since the last interview?',
-	'What are your expansion plans?'
+	'What are your expansion plans?',
+	'What are other transportation alternatives in Bogota?',
+	'How do you get through the regulation? there have been a lot of regulation issues in the US',
+	'How do you guys know each other?',
+	'What areas in Bogota are you operating in?',
+	'Have you raised any money?'
 ];
 
 // Tips
