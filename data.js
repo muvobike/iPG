@@ -72,7 +72,7 @@ var q = [
 	'What progress have you made since the last interview?',
 	'What are your expansion plans?',
 	'What are other transportation alternatives in Bogota?',
-	'How do you get through the regulation? there have been a lot of regulation issues in the US',
+	'How do you get through the regulation?',
 	'How do you guys know each other?',
 	'What areas in Bogota are you operating in?',
 	'Have you raised any money?'
