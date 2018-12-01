@@ -17,22 +17,15 @@ var q = [
 	'Who would you hire or how would you add to your team?',
 	
 	'So what are you working on?',
-	'Do you have a demo?',
-	'Where is the rocket science here?',
-	'How does your product work in more detail?',
 	'How is your product different?',
 	'What are you going to do next?',
 	'What&#39;s new about what you make?',
 	'What, exactly, makes you different from existing options?',
 	'Who needs what you&#39;re making?',
 	'How do you know customers need what you&#39;re making?',
-	'Why isn&#39;t someone already doing this?',
 	'What obstacles will you face and how will you overcome them?',
 	'How will customers and/or users find out about you?',
 	'What resistance will they have to trying you and how will you overcome it?',
-	'What are the key things about your field that outsiders don&#39;t understand?',
-	'What part of your project are you going to build first?',
-	'Who is going to be your first paying customer?',
 	'If your startup succeeds, what additional areas might you be able to expand into?',
 	'Why did you choose this idea?',
 	'What have you learned so far from working on your product?',
@@ -56,7 +49,6 @@ var q = [
 	'How did your team meet?',
 	'Why did your team get together?',
 	'Who in your team does what?',
-	'Who is &quot;the boss&quot;?',
 	'What will you do if we don&#39;t fund you?',
 	'Would you relocate to Silicon Valley?',
 	'How do we know your team will stick together?',
@@ -76,9 +68,9 @@ var q = [
 	'What is the next step with the product evolution?',
 	'Have you raised funding?',
 	'Who would be your next hire?',
-	
-	'How do you know people want this?',
-	'What do you know about this space/product others don&#39;t know?'
+	'What do you know about this space/product others don&#39;t know?',
+	'What progress have you made since the last interview?',
+	'What are your expansion plans?'
 ];
 
 // Tips
